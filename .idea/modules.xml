@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1190_反转每对括号中的子串/1190_反转每对括号中的子串.iml" filepath="$PROJECT_DIR$/1190_反转每对括号中的子串/1190_反转每对括号中的子串.iml" />
+      <module fileurl="file://$PROJECT_DIR$/163_只出现一次的数字/163_只出现一次的数字.iml" filepath="$PROJECT_DIR$/163_只出现一次的数字/163_只出现一次的数字.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26_删除排序数组中的重复项/26_删除排序数组中的重复项.iml" filepath="$PROJECT_DIR$/26_删除排序数组中的重复项/26_删除排序数组中的重复项.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
+    </modules>
+  </component>
+</project>
